@@ -1,4 +1,8 @@
 ### Hi there 👋
+<img src="https://www.jyotishukla.com/wp-content/uploads/2020/08/web-design-2906159_1280.jpg" alt="Screenshot"/>
+
+Jyoti is an ambitious problem solver with a passion to learn and spread knowledge. She has experience in web development and possesses great communication people relationship skills. She is thorough and precise in everything she does and has keen interest in technology, web applications and user experience.
+
 
 <!--
 **jyoti-wp/jyoti-wp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
